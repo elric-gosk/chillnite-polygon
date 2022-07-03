@@ -70,7 +70,7 @@ Please let us introduce our Dapps in demo.
   - WalletConnect is used for the Wallet and connection part
   - Transactions, etc. use web3.swift
 # Polygonscan links of smart contracts
-https://mumbai.polygonscan.com/address/0x043586f05ed9Eba43b9e129385f4a2A885402634
+https://mumbai.polygonscan.com/address/0x6149f58E7fa65820ED30AB9634Ffa575a5ca5434
 # Challenges faced
 - Developer side
   - Easy to mint from the web, but hard to mint from native apps.
